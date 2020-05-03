@@ -1,0 +1,452 @@
+[
+    [
+        "Ffnu14oRfCkQdWxvPUyEeUy4Qvjw2GoSRF",
+        "74890af81fad0f9ceade2278f5a25260920f0606",
+        {
+            "addrType": "pubkey",
+            "isPrivkey": false,
+            "isTestnet": false
+        }
+    ],
+    [
+        "6ar8hs9kz4yKy5JBuc2xA4fXXYvJiEKomx",
+        "e05b711570fad0a3ff4a83121f202a1dba15e850",
+        {
+            "addrType": "script",
+            "isPrivkey": false,
+            "isTestnet": false
+        }
+    ],
+    [
+        "fSXF8KCnAMGaKrpKnLiTni5xxRNWEPyGWG",
+        "8828a48c840c13b794822e5baf3d63ade0fa1784",
+        {
+            "addrType": "pubkey",
+            "isPrivkey": false,
+            "isTestnet": true
+        }
+    ],
+    [
+        "7vXLwc7ZsA7FwomASThqQqoVhkQwxCXbkt",
+        "3467907fe2ab89e94f6397b69e235b84cbf8e9ae",
+        {
+            "addrType": "script",
+            "isPrivkey": false,
+            "isTestnet": true
+        }
+    ],
+    [
+        "6XJcEbxMJ2U9qi2sVjG5cPnP9NiRPrnZ2gPdkHGRtSue8yaewAD",
+        "c6baffc93285463c9578d43028dbc7e0d8b5fcde19cd6a914032ebd1172762c7",
+        {
+            "isCompressed": false,
+            "isPrivkey": true,
+            "isTestnet": false
+        }
+    ],
+    [
+        "RNkiX3HJa9Ur1z7FsoXZMDZJjxqpftk4NQruC2o6r5MLv5EYSLy4",
+        "c6baffc93285463c9578d43028dbc7e0d8b5fcde19cd6a914032ebd1172762c7",
+        {
+            "isCompressed": true,
+            "isPrivkey": true,
+            "isTestnet": false
+        }
+    ],
+    [
+        "8VK83VVX83ViFKVdD2iCa16x4QCJgjA7WxxAGNNsy6XhLJs76yU",
+        "6d40962b81e7c887e766379ce77ff722168e808f283cee68c9d4b2386db663e8",
+        {
+            "isCompressed": false,
+            "isPrivkey": true,
+            "isTestnet": true
+        }
+    ],
+    [
+        "a5qBuMTi21WwVsToW8bWA3HCC4TCRKq9hkg4zRc5HwMaHJbQVVXW",
+        "a4ea987ffce217747632b6d18c9ce680ccc556b590a7a7e9616c9beea2243ce3",
+        {
+            "isCompressed": true,
+            "isPrivkey": true,
+            "isTestnet": true
+        }
+    ],
+    [
+        "FmY8paYE6cjjEpogYrhESKzgVrxEZijNdr",
+        "b38f1803361aadcb40668ed284c30cf5409ec427",
+        {
+            "addrType": "pubkey",
+            "isPrivkey": false,
+            "isTestnet": false
+        }
+    ],
+    [
+        "6ZqgceMZWD8wrxKea4XFXsw3c52AJkBtNK",
+        "d54d897fbc8af369f79ba2e1cf8d9f85a2d4a00a",
+        {
+            "addrType": "script",
+            "isPrivkey": false,
+            "isTestnet": false
+        }
+    ],
+    [
+        "fX9Vz2xWDfdnoezE3SYv2hYNgYrZGmeh8n",
+        "bae485d17a86789fcb31940dd5396383c1d9b621",
+        {
+            "addrType": "pubkey",
+            "isPrivkey": false,
+            "isTestnet": true
+        }
+    ],
+    [
+        "8ATSW9miEKW1oCYcHk1MtuK7zVDKZZX94z",
+        "cd3c4dc470f4e02a40bb6fffc91d81e6debb1697",
+        {
+            "addrType": "script",
+            "isPrivkey": false,
+            "isTestnet": true
+        }
+    ],
+    [
+        "6Wa24utTAvY6r7PhuhLkofmRysrJjF1MbxikCoSmcotWRohnvUB",
+        "6606d7e7aea373d445b784302b2bdefaa92617ea99bc8b900eb6b4176e0b338d",
+        {
+            "isCompressed": false,
+            "isPrivkey": true,
+            "isTestnet": false
+        }
+    ],
+    [
+        "RKWjiGS6WoJGomDDZb4CLz77G3SdFSpZwJwFh5zjw3xLtF5wQu8Q",
+        "6606d7e7aea373d445b784302b2bdefaa92617ea99bc8b900eb6b4176e0b338d",
+        {
+            "isCompressed": true,
+            "isPrivkey": true,
+            "isTestnet": false
+        }
+    ],
+    [
+        "8UhmT2MBW6UmcFJdDvQzuZDFvrCE3Krg6cDQuMFtem5rBSV7BHP",
+        "1cf969da50d3ec2191c22e1f7cb5d66d96de35ebe89d4d44e8ad1e2a7505bddd",
+        {
+            "isCompressed": false,
+            "isPrivkey": true,
+            "isTestnet": true
+        }
+    ],
+    [
+        "a1GwBrx5MRBZta8nt2kvayB6tg8YZGEFZkRnW4QiyfaQ51VSJ6YE",
+        "1cf969da50d3ec2191c22e1f7cb5d66d96de35ebe89d4d44e8ad1e2a7505bddd",
+        {
+            "isCompressed": true,
+            "isPrivkey": true,
+            "isTestnet": true
+        }
+    ],
+    [
+        "FtEncpADccCu3oThYpjpQo4s7cYAkP23K8",
+        "fd1009d7ab71b5da8b88b5fde6b9d8433eb7f410",
+        {
+            "addrType": "pubkey",
+            "isPrivkey": false,
+            "isTestnet": false
+        }
+    ],
+    [
+        "6bzUzma2kHu7MWHczQRnFKFUcNrewpp6fi",
+        "ece7d56a7d7e7758d7bdae78d95fd818cc4ec8fd",
+        {
+            "addrType": "script",
+            "isPrivkey": false,
+            "isTestnet": false
+        }
+    ],
+    [
+        "fKs9Xm64TDUSZpd4baFwFFwhnjod1yGwmm",
+        "3f2369112dfadb103778d2fdf7a4fd17cee5c869",
+        {
+            "addrType": "pubkey",
+            "isPrivkey": false,
+            "isTestnet": true
+        }
+    ],
+    [
+        "7zRUwaUEMEqH3JGfzXLQSZXQBL5EkUDccp",
+        "5f2c3fdd5e4f1e39e6285bfcda629250083fa36d",
+        {
+            "addrType": "script",
+            "isPrivkey": false,
+            "isTestnet": true
+        }
+    ],
+    [
+        "6XhXRuNb1XLd8eGL4roFzCme9PSHcog3Sh8XNnJALt7b8euz4XJ",
+        "fac4440b8c09050c10103dff90a8b2db0eafe2137cedaf11ebe9f3be2ddeddb7",
+        {
+            "isCompressed": false,
+            "isPrivkey": true,
+            "isTestnet": false
+        }
+    ],
+    [
+        "RQVsJvAH7JucUjUfA2oB9Ux2x22cM31KnQ8D58vkEkc5eNCHKuuR",
+        "fac4440b8c09050c10103dff90a8b2db0eafe2137cedaf11ebe9f3be2ddeddb7",
+        {
+            "isCompressed": true,
+            "isPrivkey": true,
+            "isTestnet": false
+        }
+    ],
+    [
+        "8Uqsxrrx41wSxE6ZWLGfTvkcb6k6GAvAk6PAqrP2nRiqHnwxB7s",
+        "2f64ef99007bf36f2fab0635eb8da40b933d915156c01cf41a89832967349e57",
+        {
+            "isCompressed": false,
+            "isPrivkey": true,
+            "isTestnet": true
+        }
+    ],
+    [
+        "a1tjwZ5TzK9KYkoYUU48mrFW5WMCDxmg1CkrScxEsW7e92JJySeC",
+        "2f64ef99007bf36f2fab0635eb8da40b933d915156c01cf41a89832967349e57",
+        {
+            "isCompressed": true,
+            "isPrivkey": true,
+            "isTestnet": true
+        }
+    ],
+    [
+        "Fczzt3bHvGmJmh7n6r43Mh22uJn58eMYZF",
+        "55ea9085adae89a03aa62fbaf6007900506e215b",
+        {
+            "addrType": "pubkey",
+            "isPrivkey": false,
+            "isTestnet": false
+        }
+    ],
+    [
+        "6Zv5xk6YndFZR8WWU5kecegiBp8v1uvMLp",
+        "d622b08d6aa73b132b418fd962ba51c9d069305a",
+        {
+            "addrType": "script",
+            "isPrivkey": false,
+            "isTestnet": false
+        }
+    ],
+    [
+        "fKmy2hR3dM99i1maQsjZwjEAVbU4nm9NHM",
+        "3e289092c47901bea775fe6914da14874161930a",
+        {
+            "addrType": "pubkey",
+            "isPrivkey": false,
+            "isTestnet": true
+        }
+    ],
+    [
+        "7vwrSF83vBDj7rdftpepQDa8uTU9uF2SKp",
+        "390a2aed6b54c41ab1404adb7de2ada5bd98f47d",
+        {
+            "addrType": "script",
+            "isPrivkey": false,
+            "isTestnet": true
+        }
+    ],
+    [
+        "6XAvDijqiJpkzdY9tKUu6DS94AkZAS2EnyQpNe4J5gnTJ5jThCm",
+        "b54502529b88e925e5afe41e4f236277cf5a52ccec098a820de6485277d711fa",
+        {
+            "isCompressed": false,
+            "isPrivkey": true,
+            "isTestnet": false
+        }
+    ],
+    [
+        "RNAmu9E61KfoBNGWDWa8v1sxYz3ExdSTsuz86WZYPgbd4JhtzdKB",
+        "b54502529b88e925e5afe41e4f236277cf5a52ccec098a820de6485277d711fa",
+        {
+            "isCompressed": true,
+            "isPrivkey": true,
+            "isTestnet": false
+        }
+    ],
+    [
+        "8UtfCTKLrNoxjbAPXS7eJLCcRqk4YGhL7CxHimpsvnAbJbQ48FB",
+        "35b4d60b3625f90d266b4597969f84bfe7ff09ca1b189f8a77f45ed407751825",
+        {
+            "isCompressed": false,
+            "isPrivkey": true,
+            "isTestnet": true
+        }
+    ],
+    [
+        "a271bZ9xcwGGzynSRKrKdVkFNe94d2H1LPm2oNrKnNMLQYQaYhXe",
+        "35b4d60b3625f90d266b4597969f84bfe7ff09ca1b189f8a77f45ed407751825",
+        {
+            "isCompressed": true,
+            "isPrivkey": true,
+            "isTestnet": true
+        }
+    ],
+    [
+        "FioMx3i6Ui3axPY1zgwxBboan5VBGrR3Ct",
+        "9587ea4ba5adb3d392b6b9d2c446e9423a07dc35",
+        {
+            "addrType": "pubkey",
+            "isPrivkey": false,
+            "isTestnet": false
+        }
+    ],
+    [
+        "6JhqtgGEREzNjX2eQDuvis9S4WGcsPUj48",
+        "2f4810f44a6c64067940949326370ce0f393bf36",
+        {
+            "addrType": "script",
+            "isPrivkey": false,
+            "isTestnet": false
+        }
+    ],
+    [
+        "fd6aXdyAjrVJLTjHWkzwBuPmXWfyqRsr5F",
+        "fc27d2cc347bb656fc358387000a721d1d056cf9",
+        {
+            "addrType": "pubkey",
+            "isPrivkey": false,
+            "isTestnet": true
+        }
+    ],
+    [
+        "86DeN761iEqxv4b4NgUfxNUKpRZ2E5yni1",
+        "9ebfe0e356e774924f22dbe24179624b5a0d2fbf",
+        {
+            "addrType": "script",
+            "isPrivkey": false,
+            "isTestnet": true
+        }
+    ],
+    [
+        "6WnQLXWR6f9YTBiAvwEYnPjrK77bEjWxESWjeDRPBHVV2yNBizQ",
+        "822560e3c165fe76a63c755ae06ceca8ac66747463bc45a9dfe8e3aef83c1567",
+        {
+            "isCompressed": false,
+            "isPrivkey": true,
+            "isTestnet": false
+        }
+    ],
+    [
+        "RLTQ1BeqMyNhpaGiq4NoHMN8euz67cfCnKcFDFpctPnijDrXwHFu",
+        "822560e3c165fe76a63c755ae06ceca8ac66747463bc45a9dfe8e3aef83c1567",
+        {
+            "isCompressed": true,
+            "isPrivkey": true,
+            "isTestnet": false
+        }
+    ],
+    [
+        "8VE76azJoxt7CJHgXK9gDxwVdV3miyxp49dknhWsA4JXiJaWPHX",
+        "61dcb3e51fa2497ba04edc5d25b81b7262ec8d05b5829d07f563493977006444",
+        {
+            "isCompressed": false,
+            "isPrivkey": true,
+            "isTestnet": true
+        }
+    ],
+    [
+        "a3aquf1wcHeaLsJdSo7J8DuXN2oEQJRLgu7EGhppNyaNZByYsTYM",
+        "61dcb3e51fa2497ba04edc5d25b81b7262ec8d05b5829d07f563493977006444",
+        {
+            "isCompressed": true,
+            "isPrivkey": true,
+            "isTestnet": true
+        }
+    ],
+    [
+        "FaVqyuqBHKsfxPAkuP4mzr6tEBD9Crc94P",
+        "3a76d25a1788dc992f9ce6088164b25114eb9aed",
+        {
+            "addrType": "pubkey",
+            "isPrivkey": false,
+            "isTestnet": false
+        }
+    ],
+    [
+        "6GFNe3wQQGYsP8kYViRNt6FUiiLcbGNoV3",
+        "1456402ca953d7b873e54c4e7df6ec2319450f46",
+        {
+            "addrType": "script",
+            "isPrivkey": false,
+            "isTestnet": false
+        }
+    ],
+    [
+        "fLFBjkvHSjHkHjtV7qeBwjPUS8Sn8jpRBj",
+        "434e675cd761c4d75c403f9c8aac4e9d5b968062",
+        {
+            "addrType": "pubkey",
+            "isPrivkey": false,
+            "isTestnet": true
+        }
+    ],
+    [
+        "8AcyHawaPYyccv2oAY9mg5QMfcqBnxmApN",
+        "cf09be7bcc84fd11cd0b0b9519fe273d5542523c",
+        {
+            "addrType": "script",
+            "isPrivkey": false,
+            "isTestnet": true
+        }
+    ],
+    [
+        "6XjjkQ42oT1iEYzFSyccMcNKFoPzZFHGcVFtYySP8SGd6J2fTik",
+        "ffca48ec8edcfad5efff0e8c7c6a42c71a8d6f7645acece1eac86849fd763496",
+        {
+            "isCompressed": false,
+            "isPrivkey": true,
+            "isTestnet": false
+        }
+    ],
+    [
+        "RQfdgYkNx1p8zpBgmetB3y75aKnV3L2oudiiY872fpXxJKchsQMH",
+        "ffca48ec8edcfad5efff0e8c7c6a42c71a8d6f7645acece1eac86849fd763496",
+        {
+            "isCompressed": true,
+            "isPrivkey": true,
+            "isTestnet": false
+        }
+    ],
+    [
+        "8VdXuXEcB7kbtHqRDpFdxbFbM28ZyyRWHXPHKb9zc9hFe4HRdvE",
+        "970ec43af0d5d6995489bd3bf6c114f1346ce4251c46d2039789b874c6eed103",
+        {
+            "isCompressed": false,
+            "isPrivkey": true,
+            "isTestnet": true
+        }
+    ],
+    [
+        "a5NFQpT4FeoSyPJhuZZc8NBQbMzQaU3AFw7M33khG9NfcA26Kuvd",
+        "970ec43af0d5d6995489bd3bf6c114f1346ce4251c46d2039789b874c6eed103",
+        {
+            "isCompressed": true,
+            "isPrivkey": true,
+            "isTestnet": true
+        }
+    ],
+    [
+        "FbpPcrhwMMeSsYRc65SNVDsfq2S8Tdzxp4",
+        "48f0d811dd6ce72e5d35b12ca12f432d7856ffa2",
+        {
+            "addrType": "pubkey",
+            "isPrivkey": false,
+            "isTestnet": false
+        }
+    ],
+    [
+        "6RePFMSPCrAiAmFoAGQkFJGLdNxmia38jc",
+        "7b69753b0d82839551041d13bf5816cce13c420b",
+        {
+            "addrType": "script",
+            "isPrivkey": false,
+            "isTestnet": false
+        }
+    ]
+]
